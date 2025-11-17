@@ -15,4 +15,4 @@ echo "Starting  Node AppSrv02"
 ~/IBM/WebSphere/AppServer/profiles/AppSrv02/bin/startNode.sh 
 
 echo "" 
-echo "Script comepleted. 
+echo "Script comepleted"
