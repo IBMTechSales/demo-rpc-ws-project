@@ -15,7 +15,7 @@
         <liberty.var.app.context.root>${project.artifactId}</liberty.var.app.context.root>
     </properties>
     <build>
-        <sourceDirectory>src/main</sourceDirectory>
+        <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
