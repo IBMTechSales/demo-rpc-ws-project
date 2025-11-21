@@ -9,3 +9,5 @@
 !/pom.xml
 target
 .vscode
+**/server.xml
+!/server.xml
